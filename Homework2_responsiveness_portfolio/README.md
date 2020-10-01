@@ -1,1 +1,0 @@
-# Homework2_responsiveness_portfolio

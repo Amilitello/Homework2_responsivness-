@@ -1,3 +1,1 @@
-# Homework2_responsivness-
-Portfolio
-# Homework3_password generator
+# Homework2_responsiveness_portfolio
